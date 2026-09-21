@@ -17,7 +17,7 @@ deps:
 area:
   probe:
     module: mkApb4ToAxi4LiteProbe
-    src: tb/Probe.bsv
+    src: htest/Probe.bsv
     check: true
   base:
     fixed: 966.32
